@@ -1,0 +1,71 @@
+[
+  {
+    "id": "fe93aef4-6341-4122-9d20-2b7ee0f1eb50",
+    "data": [
+      {
+        "text": "anytime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2d01c8b-01f2-4bfa-988d-9fbf5db4f9d9",
+    "data": [
+      {
+        "text": "tanghali",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6092fed4-3854-4edb-9067-2c314b54a1c1",
+    "data": [
+      {
+        "text": "hapon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b138e840-1076-432d-8128-d577107d0e62",
+    "data": [
+      {
+        "text": "umaga",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "199944b2-ad68-4f6d-95b4-50cf4d8a438c",
+    "data": [
+      {
+        "text": "1 am",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

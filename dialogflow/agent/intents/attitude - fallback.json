@@ -1,0 +1,46 @@
+{
+  "id": "3e2d6a2c-0e20-4d49-87ab-1aa1f3c0b2b1",
+  "name": "attitude - fallback",
+  "contexts": [
+    "attitude-fallback"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "attitude.attitude-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Aigoo..."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oo at hindi lang ang inaasahan kong sagot..."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

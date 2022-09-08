@@ -1,0 +1,9 @@
+{
+  "id": "de1e13a6-25cc-457c-8404-06b69315e8d3",
+  "name": "time",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

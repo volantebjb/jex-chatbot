@@ -1,0 +1,79 @@
+{
+  "id": "8fcfaec0-15ef-4af2-b201-94096e381981",
+  "parentId": "4573a641-115a-4076-8a39-f9ec5272e7dc",
+  "rootParentId": "4573a641-115a-4076-8a39-f9ec5272e7dc",
+  "name": "flexibility - no",
+  "auto": true,
+  "contexts": [
+    "flexibility-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flexibility.flexibility-no",
+      "affectedContexts": [
+        {
+          "name": "reliability-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "reliability-fallback",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cc692a58-674a-4c51-9307-91b0629830bc",
+          "name": "negative",
+          "required": true,
+          "dataType": "@negative",
+          "value": "$negative",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry, oo at hindi lamang ang inaasahan kong sagot dito."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mabuti naman!",
+            "Good to hear \u0027yan."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Chineck ba nila ang parcel bago ibigay sa iyo?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

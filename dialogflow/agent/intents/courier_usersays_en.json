@@ -1,0 +1,36 @@
+[
+  {
+    "id": "d76eb7a2-3299-4940-98b2-e5c6693d1fe0",
+    "data": [
+      {
+        "text": "Shopee",
+        "meta": "@courier",
+        "alias": "courier",
+        "userDefined": true
+      },
+      {
+        "text": " ang ginamit ko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b53cd02-e8e9-45b5-8860-399c21e488b7",
+    "data": [
+      {
+        "text": "Lalamove",
+        "meta": "@courier",
+        "alias": "courier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,153 @@
+{"intents": [
+  
+  {"tag": "postive answer",
+   "patterns": ["mabilis", "speed", "smooth", "gumagana", "sobrang bilis", "maayos", "excellent", "best", "dabest", "sobrang tibay", "malinis", "matibay", "original", "tunay", "responsive", "mabilis magreply", "well received", "complete", "well packaged", "gumagana", "gumana", "effective", "mapapakinabangan", "napapakinabangan", "best quality", "good quality", "mabait", "maangas", "useful", "sulit", "mura", "maganda"],
+   "responses": ["Mabuti naman kung gano'n.", "Ikinagagalak ko ang iyong kasagutan.", "Ako'y masaya sa iyong sinabi."],
+   "followup": ["Hanggang sa muli, kaibigan. Maraming salamat sa iyong oras na inilaan."],
+   "context_set": ""
+  },
+  
+  {"tag": "neutral answer",
+   "patterns": ["sakto lang", "pwede na", "pwede na rin", "saks lang", "ikaw bahala", "depende", "kind of", "kinda", "nice", "hindi ako sure", "di ko lang sure", "saktuhan lang", "medyo", "medjo", "medj"],
+   "responses": ["Okay, akin nang nalaman.", "Ohhh, I see.", "Ngayon ay alam ko na.", "Aking nabatid.", "Aking naiintindihan ang iyong kasagutan."],
+   "followup": ["Hanggang sa muli, kaibigan. Maraming salamat sa iyong oras na inilaan."],
+   "context_set": ""
+  },
+
+  {"tag": "negative answer",
+   "patterns": ["pangit", "hindi maganda", "palpak", "sira", "luma", "laspag", "walang kwenta", "sayang pera", "hindi sulit", "hindi maayos", "sinungaling", "peke", "mali", "magulo", "scam", "useless", "hindi gumagana", "nakakadismaya", "low quality", "kulang", "hindi maayos", "mabagal", "walang silbi", "unresponsive", "hindi sumasagot", "walang reply", "low quality", "masyadong mahal", "ang tagal", "makupad", "kupad", "pagong", "matagal", "mahina", "makupad", "ang kupad", "walang kwenta", "ang bagal", "wasak", "parang matanda", "parang gamit na", "bad vibes", "walang respeto", "walang modo", "no respect", "hindi gumagana", "hindi umuubra", "may sira", "may defect", "hindi maasikaso", "masagwa", "sagwa"],
+   "responses": ["Sad naman nyarn.", "Ikinalulungkot ko ang iyong kasagutan.", "Ako'y nalungkot sa iyong sinabi.", "Naku, hindi dapat ganiyan!", "Ako'y malungkot sa iyong naranasan.", "Ang saklap naman ng nangyari sa iyo.", "Naku, hindi ganiyan ang dapat mong maranasan!"],
+   "followup": ["Hanggang sa muli, kaibigan. Maraming salamat sa iyong oras na inilaan."],
+   "context_set": ""
+  },
+
+  {"tag": "sarcastic answer",
+   "patterns": ["ayoko", "hindi", "ayaw ko nga", "dehins", "ano ngayon", "so", "bahala ka diyan", "pake ko", "what if ayaw ko", "no", "secret walang clue", "pake ko", "pakealam", "i dont care", "idc", "guess what", "no one cares", "walang may pake", "pass", "o tapos"],
+   "responses": ["Okay, sabi mo e.", "Edi wag!", "Bakit naman?", "Sad naman nyarn.", "Sige, sabi mo e.", "Sagutin mo ako nang maayos.", "Salamat na lang sa lahat.", "Hindi ko gusto ang iyong sinagot.", "Huwag mo akong lokohin.", "Huwag kang bastos!", "Akala ko mabait kang tao, isa ka rin pa lang bastos."],
+   "followup": ["Hanggang sa muli, kaibigan. Maraming salamat sa iyong oras na inilaan."],
+   "context_set": ""
+  },
+
+
+   
+  
+
+  {"tag": "greeting",
+   "patterns": ["Hi", "hi", "Is anyone there?", "Hello", "Good day", "oy", "kumusta", "lods", "mars", "pre", "lodi", "hoy", "pssst", "hey", "Good evening", "Good afternoon", "May tao ba diyan?", "Magandang umaga", "Magandang tanghali", "Magandang gabi"],
+   "responses": ["Hello, good to see you again!"],
+   "followup": ["Do you want to send feedback?"],
+   "error": [""],
+   "context_set": ""
+  },
+
+  {"tag": "confirm yes",
+   "patterns": ["opo", "oo", "oo naman", "oh sure", "yes", "why not", "sige ba", "egis", "okay", "go lang", "ge lang", "gege", "sige lods", "yeah", "yah", "yas", "definitely", "g", "im down"],
+   "responses": ["Mabuti naman kung gano'n!", "Ikinagagalak ko ang iyong kasagutan.", "Ako'y masaya sa iyong sinabi.", "Ako'y masaya sa iyong kasagutan.", "Salamat sa iyong kasagutan."],
+   "followup": ["what is the courier that you used?", "Ano ba ang courier na iyong pinili?"],
+   "context_set": ""
+  },
+
+  {"tag": "confirm no",
+    "patterns": ["ayoko", "hindi", "ayaw ko nga", "dehins", "no"],
+    "responses": ["Edi wag!", "Bakit naman hindi?", "Sige, sabi mo e.", "Sagutin mo ako nang maayos.", "Bakit ayaw mo?", "Ayaw mo? Sayang naman.", "Kung ayaw mo, huwag mo."],
+    "followup": ["None"],
+    "context_set": ""
+   },
+
+
+
+
+  {"tag": "location",
+   "patterns": ["Metro Manila", "Luzon", "Visayas", "Mindanao", "Manila City", "Binondo", "Ermita", "Intramuros", "Malate", "Paco", "Pandacan", "Port Area", "Quiapo", "Sampaloc", "San Andres", "San Miguel", "San Nicolas", "Santa Ana", "Santa Cruz", "Santa Mesa", "Tondo I/II", "Mandaluyong City", "Marikina City", "Pasig", "Quezon City", "San Juan City", "Caloocan City", "Navotas City", "Valenzuela City", "Las Piñas City", "Makati City", "Muntinlupa City", "Parañaque City", "Pasay City", "Pateros", "Taguig City", "Abra", "Apayao", "Benguet", "Ifugao", "Kalinga", "Mountain Province", "Ilocos Norte", "Ilocos Sur", "La Union", "Pangasinan", "Batanes", "Cagayan", "Isabela", "Nueva Vizcaya", "Quirino", "Bataan", "Bulacan", "Nueva Ecija", "Tarlac", "Zambales", "Batangas", "Cavite", "Laguna", "Quezon", "Marinduque", "Occidental Mindoro", "Oriental Mindoro", "Palawan", "Romblon", "Albay", "Camarines Norte", "Camarines Sur", "Catanduanes", "Masbate", "Sorsogon", "Aklan", "Antique", "Capiz", "Guimaras", "Iloilo", "Negros Occidental", "Negros Oriental", "Bohol", "Cebu", "Siquijor", "Biliran", "Eastern Samar", "Leyte", "Northern Samar", "Samar", "Southern Leyte", "Zamboanga del Norte", "Zamboanga del Sur", "Zamboanga Sibugay", "Bukidnon", "Camiguin", "Lanao del Norte", "Misamis Occidental", "Misamis Oriental", "Davao de Oro", "Davao del Norte", "Davao del Sur", "Davao Occidental", "North Cotabato", "South Cotabato", "Sultan Kudarat", "Agusan del Norte", "Agusan del Sur", "Dinagat Islands", "Surigao del Norte", "Surigao del Sur", "Basilan", "Lanao del Sur", "Maguindanao", "Sulu", "Tawi-Tawi"],
+   "responses": ["Isa iyan sa pinakapaborito akong region sa Pilipinas.", "Napakagandang region iyan!", "Maraming magagandang landmark diyan.", "Ayan ang pinakapaborito kong region!", "Isang fabulous na lugar!", "Gusto kong pumunta riyan.", "Isa yan sa maunlad na siyudad sa bansa.", "Ang daming matataas na buildings diyan!", "Masarap makihalubilo sa lugar na iyan.", "Magaganda ang mga tanawin diyan!", "Masasarap ang mga delicacies diyan.", "Gusto kong manirahan diyan.", "Gusto kong pag-aralan ang lugar na iyan.", "Attractive na lugar iyan!", "Masarap mag-swimming diyan.", "Mura ang mga souvenirs sa lugar na iyan.", "Payapa manirahan diyan.", "Maraming natural resources diyan.", "Gusto kong bumisita riyan.", "Gorgeous at malinis na lugar!", "Grabe, worth it puntahan iyan."],
+   "followup": ["Kailan ba dumating ang iyong item? Na-deliver ba on time?"],
+   "context_set": ""
+  },
+
+
+
+
+
+  {"tag": "time",
+   "patterns": ["6AM", "7AM", "8AM", "9AM", "10AM", "11AM", "maaga", "umaga", "aga", "morning", "12PM", "1PM", "2PM", "3PM", "4PM", "5PM", "tanghali", "noon", "6PM", "7PM", "8PM", "9PM", "10PM", "11PM", "12AM", "gabi", "night", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+   "responses": ["Oh okay, I see.", "Now I know."],
+   "followup": ["Ano ang masasabi mo sa rider?"],
+   "context_set": ""
+  },
+  {"tag": "positive rider",
+    "patterns": ["mabait", "magalang", "presentable"],
+    "responses": ["Mabuti naman kung gano'n.", "Ako'y masaya sa iyong naranasan."],
+    "followup": ["Maaari ka bang magbigay ng overall feedback sa iyong courier delivery service?"],
+    "context_set": ""
+   },
+   {"tag": "negative rider",
+    "patterns": ["barumbado", "bastos", "rude", "careless", "pabaya", "walang respeto"],
+    "responses": ["Ikinalulungkot ko na may ganiyan pa lang klaseng delivery rider.", "Hindi ko inaasahan na ganiyan ang iyong naranasan.", "Hindi mo deserve iyan."],
+    "followup": ["Maaari ka bang magbigay ng overall feedback sa iyong courier delivery service?"],
+    "context_set": ""
+   },
+
+
+
+
+  {"tag": "courier",
+   "patterns": [ "Shopee Xpress", "LEL Express", "2GO Xpress", "Ninja Van PH", "J&T Express", "XDE", "Entrego", "AIRSPEED", "LBC", "LF Logistics", "Ximex Delivery Express", "JRMT", "Kuehne+Nagel", "Quantum Solutions", "DHL Express", "GrabExpress",  "JRS Express", "Mr. Speedy", "Lalamove", "Xend Business Solutions", "Transportify",  "Angkas", "Fastrack"],
+   "responses": ["Maganda ang iyong naging desisyon.", "Balita ko marami ang tumatangkilik diyan.", "Good to know na iyan ang courier service ang iyong pinli.", "Now I know na iyan ang pinili mong courier service.", "Good choice! Mabilis iyan mag-deliver.", "Mahusay kang pumili.", "Mababait ang mga delivery riders diyan."],
+   "followup": ["Saan ba ang lugar mo? Madali bang nahanap ang iyong location?", "Saan ba ang location mo? Madali bang nahanap ang iyong location?", "Saan ka ba nakatira? Madali bang nahanap ang iyong location?"],
+   "context_set": ""
+  },
+
+  {"tag": "cds",
+   "patterns": ["ano ba ang courier service", "ano ang cds", "what is cds"],
+   "responses": ["Ang courier service ay isang service na kung saan pinahihintulutan ang isang indibidwal na mag-send ng parcel or consignment from one location to another.", "Ang courier service ay may kakayahan at may range from same-day local delivery all the way to international services. Marami silang klaseng transportation, kagaya ng kotse, motor, e-trike, bike, at iba pa upang ma-ensure na ma-deliver o mapadala ang gamit sa tamang oras."],
+   "followup": ["None"],
+   "context_set": ""
+  },
+
+   {"tag": "feedback",
+   "patterns": ["ano ba ang feedback", "what is feedback", "ano yung feedback"],
+   "responses": ["Ang feedback ay ang pag-return ng information tungkol sa result or the returned portion of a process. Ito ay isang response mula sa receiver which gives the communicator an idea kung paano na-receive ang message at kung kailangan pa ba itong i-modifify or baguhin.", "Ang feedback ay isang response. Kaya nitong i-evaluate ang effectiveness ng isang message. Ito ay essential dahil dito mo malalaman kung ang recipient ba ay naintindihan ang message kagaya nang pagkaintindi ng nagpadala ng message at kung agree ba siya sa kaniyang nabasa o hindi."],
+   "followup": ["None"],
+   "context_set": ""
+   },
+
+
+
+
+
+  {"tag": "name",
+   "patterns": ["sino ka ba", "who are you"],
+   "responses": ["Ako nga pala si Jex.", "My name is Jex."],
+   "followup": ["None"],
+   "context_set": ""
+  },
+
+  {"tag": "creator name",
+   "patterns": ["sino ba ang gumawa sa iyo", "sino ba ang nag-create sa iyo", "who created you"],
+   "responses": ["I was created by Nathaniel Bautista, Harvie Cruz, Carlos Togonon, Joshua Volante, and Gene Zurbano."],
+   "followup": ["None"],
+   "context_set": ""
+  },
+
+   {"tag": "reason of creation",
+   "patterns": ["bakit ka ba ginawa", "what is the reason why are you created"],
+   "responses": ["I was created because this is the project requirement in the Software Design subject of the creators."],
+   "followup": ["None"],
+   "context_set": ""
+  },
+
+    {"tag": "purpose of creation",
+   "patterns": ["ano ba silbi mo", "ano ba purpose mo", "what is your purpose", "ano ba ginagawa mo"],
+   "responses": ["My purpose is to know your feedback on the service of courier services in the Philippines."],
+   "followup": ["None"],
+   "context_set": ""
+  },
+
+    {"tag": "date of creation",
+   "patterns": ["kailan ka ba ginawa", "when did you created"],
+   "responses": ["I was created "],
+   "followup": ["None"],
+   "context_set": ""
+  }
+  ]
+}

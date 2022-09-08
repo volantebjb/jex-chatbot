@@ -1,0 +1,79 @@
+{
+  "id": "8410dc62-9d39-48f8-848a-15246e77bc97",
+  "parentId": "4573a641-115a-4076-8a39-f9ec5272e7dc",
+  "rootParentId": "4573a641-115a-4076-8a39-f9ec5272e7dc",
+  "name": "flexibility - yes",
+  "auto": true,
+  "contexts": [
+    "flexibility-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flexibility.flexibility-yes",
+      "affectedContexts": [
+        {
+          "name": "reliability-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "reliability-fallback",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4e3d8bfa-3dc9-4862-ad8a-530cc6d5e1c6",
+          "name": "positive",
+          "required": true,
+          "dataType": "@positive",
+          "value": "$positive",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry, oo at hindi lamang ang tinatanggap kong sagot dito."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ikinalulungkot ko ang iyong kasagutan.",
+            "Naku, hindi dapat gan\u0027yan ang dapat mong maranasan!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Chineck ba nila ang parcel bago ibigay sa iyo?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

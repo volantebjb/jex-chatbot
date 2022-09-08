@@ -1,0 +1,46 @@
+{
+  "id": "627143f0-4ba2-4fd9-a57d-210aad5020b2",
+  "name": "flexibility - fallback",
+  "contexts": [
+    "flexibility-fallback"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flexibility.flexibility-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oo at hindi lamang ang inaasahan kong sagot dito."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

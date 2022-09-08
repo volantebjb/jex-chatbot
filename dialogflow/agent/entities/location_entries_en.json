@@ -1,0 +1,2285 @@
+[
+  {
+    "value": "Cavite",
+    "synonyms": [
+      "Cavite",
+      "etivac",
+      "Carmona",
+      "Kawit",
+      "Silang",
+      "Alfonso",
+      "Amadeo",
+      "Genreal Emilio Aguinaldo",
+      "General Matiano Alvarez",
+      "Indang",
+      "Magallanes Cavite",
+      "Maragondon",
+      "Mendez",
+      "Naic",
+      "Noveleta",
+      "Rosario Cavite",
+      "Ternate",
+      "Tanza"
+    ]
+  },
+  {
+    "value": "Pangasinan",
+    "synonyms": [
+      "Pangasinan",
+      "Agno",
+      "Alcala Pangasinan",
+      "Anda",
+      "Asingan",
+      "Balungao",
+      "Bani",
+      "Basista",
+      "Bautista",
+      "Bayambang",
+      "Binalonan",
+      "Binmaley",
+      "Bolinao",
+      "Bugallon",
+      "Burgos Pangasinan",
+      "Calasiao",
+      "Dasol",
+      "Infanta Pangasinan",
+      "Labrador",
+      "Laoac",
+      "Lingayen",
+      "Mabini Pangasinan",
+      "Malasiqui",
+      "Manaoag",
+      "Mangaldan",
+      "Mangatarem",
+      "Mapandan",
+      "Natividad",
+      "Pozorrubio",
+      "Rosales",
+      "San Fabian",
+      "San Jacinto Pangasinan",
+      "San Manuel",
+      "San Quintin Pangasinan",
+      "Santa Barbara Pangasinan",
+      "Santa Maria Pangasinan",
+      "Santo Tomas Pangasinan",
+      "Sison Pangasinan",
+      "Sual",
+      "Tayug",
+      "Umingan",
+      "Urbiztondo",
+      "Villasis",
+      "Dagupan",
+      "Alaminos",
+      "San Carlos",
+      "Urdaneta"
+    ]
+  },
+  {
+    "value": "Ilocos Norte",
+    "synonyms": [
+      "Ilocos Norte",
+      "Adams",
+      "Bacarra",
+      "Badoc",
+      "Bangui",
+      "Banna",
+      "Burgos Ilocos Norte",
+      "Carasi",
+      "Currimao",
+      "Dingras",
+      "Dumalneg",
+      "Marcos",
+      "Nueva Era",
+      "Pagudpud",
+      "Paoay",
+      "Pasuquin",
+      "Piddig",
+      "Pinili",
+      "San Nicolas Ilocos Norte",
+      "Sarrat",
+      "Solsona",
+      "Vintar",
+      "Batac",
+      "Laoag"
+    ]
+  },
+  {
+    "value": "Ilocos Sur",
+    "synonyms": [
+      "Ilocos Sur Ilocos Sur",
+      "Candon",
+      "Vigan",
+      "Alilem",
+      "Banayoyo",
+      "Burgos Ilocos Sur",
+      "Cabugao",
+      "Caoayan",
+      "Cervantes",
+      "Galimuyod",
+      "Gregorio del Pilar",
+      "Lidlidda",
+      "Magsingal",
+      "Nagbukel",
+      "Narvacan",
+      "Quirino Ilocos Sur",
+      "Salcedo Ilocos Sur",
+      "San Emilio",
+      "San Esteban",
+      "San Ildefonso Ilocos Sur",
+      "San Juan Ilocos Sur",
+      "San Vicente Ilocos Sur",
+      "Santa",
+      "Santa Catalina",
+      "Santa Cruz Ilocos Sur",
+      "Santa Lucia",
+      "Santa Maria Ilocos Sur",
+      "Santiago Ilocos Sur",
+      "Santo Domingo Ilocos Sur",
+      "Sigay",
+      "Sinait",
+      "Sugpon",
+      "Suyo",
+      "Tagudin"
+    ]
+  },
+  {
+    "value": "La Union",
+    "synonyms": [
+      "La Union",
+      "LU",
+      "Agoo",
+      "Aringay",
+      "Bacnotan",
+      "Bagulin",
+      "Balaoan",
+      "Bangar",
+      "Bauang",
+      "Burgos La Union",
+      "Caba",
+      "Damortis",
+      "Luna La Union",
+      "Nguilian",
+      "Pugo",
+      "Rosario La Union",
+      "San Fernando La Union",
+      "San Gabriel",
+      "San Juan La Union",
+      "Santol",
+      "Sto. Tomas",
+      "Sudipen",
+      "Tubao"
+    ]
+  },
+  {
+    "value": "Bulacan",
+    "synonyms": [
+      "Bulacan",
+      "Angat",
+      "Balagtas",
+      "Baliuag",
+      "Bocaue",
+      "Bulakan",
+      "Bustos",
+      "Calumpit",
+      "Doña Remedios Trinidad",
+      "Guiguinto",
+      "Hagonoy Bulacan",
+      "Malolos",
+      "Marilao",
+      "Meycauayan",
+      "Norzagaray",
+      "Obando",
+      "Pandi",
+      "Paombong",
+      "Plaridel Bulacan",
+      "Pulilan",
+      "San Ildefonso Bulacan",
+      "San Jose del Monte",
+      "San Miguel",
+      "San Rafael Bulacan",
+      "Santa Maria Bulacan"
+    ]
+  },
+  {
+    "value": "Abra",
+    "synonyms": [
+      "Abra",
+      "Bangued",
+      "Boliney",
+      "Bucay",
+      "Bucloc",
+      "Daguioman",
+      "Danglas",
+      "Dolores Abra",
+      "La Paz",
+      "Lacub",
+      "Lagangilang",
+      "Lagayan",
+      "Langiden",
+      "Licuan-Baay",
+      "Luba",
+      "Malibcong",
+      "Manabo",
+      "Peñarrubia",
+      "Pidigan",
+      "Pilar Abra",
+      "Sallapadan",
+      "San Isidro Abra",
+      "San Juan Abra",
+      "San Quintin Abra",
+      "Tayum",
+      "Tineg",
+      "Tubo",
+      "Villaviciosa"
+    ]
+  },
+  {
+    "value": "Apayao",
+    "synonyms": [
+      "Apayao",
+      "Calanasan",
+      "Conner",
+      "Flora",
+      "Kabugao",
+      "Luna Apayao",
+      "Pudtol",
+      "Santa Marcela"
+    ]
+  },
+  {
+    "value": "Benguet",
+    "synonyms": [
+      "Benguet",
+      "Atok",
+      "Baguio",
+      "Bakun",
+      "Bokod",
+      "Buguias",
+      "Itogon",
+      "Kabayan",
+      "Kapangan",
+      "Kibungan",
+      "La Trinidad",
+      "Mankayan",
+      "Sablan",
+      "Tuba",
+      "Tublay"
+    ]
+  },
+  {
+    "value": "Ifugao",
+    "synonyms": [
+      "Ifugao",
+      "Aguinaldo",
+      "Alfonso Lista",
+      "Asipulo",
+      "Banaue",
+      "Hingyon",
+      "Hungduan",
+      "Kiangan",
+      "Lagawe",
+      "Lamut",
+      "Mayoyao",
+      "Tinoc"
+    ]
+  },
+  {
+    "value": "Kalinga",
+    "synonyms": [
+      "Kalinga",
+      "Balbalan",
+      "Lubuagan",
+      "Pasil",
+      "Pinukpuk",
+      "Rizal Kalinga",
+      "Tabuk",
+      "Tanudan",
+      "Tinglayan"
+    ]
+  },
+  {
+    "value": "Mountain Province",
+    "synonyms": [
+      "Mountain Province",
+      "Barlig",
+      "Bauko",
+      "Besao",
+      "Bontoc",
+      "Natonin",
+      "Paracelis",
+      "Sabangan",
+      "Sadanga",
+      "Sagada",
+      "Tadian"
+    ]
+  },
+  {
+    "value": "Batanes",
+    "synonyms": [
+      "Batanes",
+      "Basco",
+      "Itbayat",
+      "Ivana",
+      "Mahatao",
+      "Sabtang",
+      "Uyugan"
+    ]
+  },
+  {
+    "value": "Cagayan",
+    "synonyms": [
+      "Cagayan",
+      "Abulug",
+      "Alcala Cagayan",
+      "Allacapan",
+      "Amulung",
+      "Aparri",
+      "Baggao",
+      "Ballesteros",
+      "Buguey",
+      "Calayan",
+      "Camalaniugan",
+      "Claveria Cagayan",
+      "Enrile",
+      "Gattaran",
+      "Gonzaga",
+      "Iguig",
+      "Lal-lo",
+      "Lasam",
+      "Pamplona Cagayan",
+      "Peñablanca",
+      "Rizal Cagayan",
+      "Piat",
+      "Sanchez-Mira",
+      "Santa Ana",
+      "Santa Praxedes",
+      "Santa Teresita Cagayan",
+      "Santo Niño Cagayan",
+      "Solana",
+      "Tuao",
+      "Tuguegarao"
+    ]
+  },
+  {
+    "value": "Isabela",
+    "synonyms": [
+      "Isabela",
+      "Alicia Isabela",
+      "Angadanan",
+      "Aurora Isabela",
+      "Benito Soliven",
+      "Burgos Isabela",
+      "Cabagan",
+      "Cabatuan",
+      "Cauayan",
+      "Cordon",
+      "Delfin Albano",
+      "Dinapigue",
+      "Divilacan",
+      "Echague",
+      "Gamu",
+      "Ilagan[",
+      "Jones",
+      "Luna",
+      "Maconacon",
+      "Mallig",
+      "Naguilian",
+      "Palanan",
+      "Quezon Isabela",
+      "Quirino Isabela",
+      "Ramon",
+      "Reina Mercedes",
+      "Roxas Isabela",
+      "San Agustin Isabela",
+      "San Guillermo",
+      "San Isidro Isabela",
+      "San Manuel Isabela",
+      "San Mariano",
+      "San Mateo",
+      "San Pablo Isabela",
+      "Santa Maria Isabela",
+      "Santiago Isabela",
+      "Santo Tomas Isabela",
+      "Tumauini"
+    ]
+  },
+  {
+    "value": "Nueva Vizcaya",
+    "synonyms": [
+      "Nueva Vizcaya",
+      "Alfonso Castañeda",
+      "Ambaguio",
+      "Aritao",
+      "Bagabag",
+      "Bambang",
+      "Bayombong",
+      "Diadi",
+      "Dupax del Norte",
+      "Dupax del Sur",
+      "Kasibu",
+      "Kayapa",
+      "Quezon Nueva Vizcaya",
+      "Santa Fe Nueve Vizcaya",
+      "Solano",
+      "Villaverde"
+    ]
+  },
+  {
+    "value": "Quirino",
+    "synonyms": [
+      "Quirino",
+      "Aglipay",
+      "Cabarroguis",
+      "Diffun",
+      "Maddela",
+      "Nagtipunan",
+      "Saguday"
+    ]
+  },
+  {
+    "value": "Bataan",
+    "synonyms": [
+      "Bataan",
+      "Abucay",
+      "Bagac",
+      "Balanga",
+      "Dinalupihan",
+      "Hermosa",
+      "Limay",
+      "Mariveles",
+      "Morong",
+      "Orani",
+      "Orion",
+      "Pilar Bataan",
+      "Samal"
+    ]
+  },
+  {
+    "value": "Nueva Ecija",
+    "synonyms": [
+      "Nueva Ecija",
+      "Aliaga",
+      "Bongabon",
+      "Cabanatuan",
+      "Cabiao",
+      "Carranglan",
+      "Cuyapo",
+      "Gabaldon",
+      "Gapan",
+      "General Mamerto Natividad",
+      "General Tinio",
+      "Guimba",
+      "Jaen",
+      "Laur",
+      "Licab",
+      "Llanera",
+      "Lupao",
+      "Muñoz",
+      "Nampicuan",
+      "Palayan",
+      "Pantabangan",
+      "Peñaranda",
+      "Quezon Nueva Ecija",
+      "Rizal Nueva Ecija",
+      "San Antonio Nueva Ecija",
+      "San Isidro Nueva Ecija",
+      "San Jose Nueva Ecija",
+      "San Leonardo",
+      "Santa Rosa",
+      "Santo Domingo Nueva Ecija",
+      "Talavera",
+      "Talugtug",
+      "Zaragoza"
+    ]
+  },
+  {
+    "value": "Tarlac",
+    "synonyms": [
+      "Tarlac",
+      "Anao",
+      "Bamban",
+      "Camiling",
+      "Capas",
+      "Concepcion Tarlac",
+      "Gerona",
+      "La Paz",
+      "Mayantoc",
+      "Moncada",
+      "Paniqui",
+      "Pura",
+      "Ramos",
+      "San Clemente",
+      "San Jose Tarlac",
+      "San Manuel Tarlac",
+      "Santa Ignacia",
+      "Tarlac City",
+      "Victoria Tarlac"
+    ]
+  },
+  {
+    "value": "Zambales",
+    "synonyms": [
+      "Zambales",
+      "Botolan",
+      "Cabangan",
+      "Candelaria Zambales",
+      "Castillejos",
+      "Iba",
+      "Masinloc",
+      "Olongapo",
+      "Palauig",
+      "San Antonio Zambales",
+      "San Felipe",
+      "San Marcelino",
+      "San Narciso Zambales",
+      "Santa Cruz Zambales",
+      "Subic"
+    ]
+  },
+  {
+    "value": "Batangas",
+    "synonyms": [
+      "Batangas",
+      "Agoncillo",
+      "Alitagtag",
+      "Balayan",
+      "Balete Batangas",
+      "Batangas City",
+      "Bauan",
+      "Calaca",
+      "Calatagan",
+      "Cuenca",
+      "Ibaan",
+      "Laurel",
+      "Lemery Batangas",
+      "Lian",
+      "Lipa",
+      "Lobo",
+      "Mabini Batangas",
+      "Malvar",
+      "Mataasnakahoy",
+      "Nasugbu",
+      "Padre Garcia",
+      "Rosario Batangas",
+      "San Jose Batangas",
+      "San Juan Batangas",
+      "San Luis Batangas",
+      "San Nicolas Batangas",
+      "San Pascual Batangas",
+      "Santa Teresita Batangas",
+      "Santo Tomas Batangas",
+      "Taal",
+      "Talisay",
+      "Tanauan",
+      "Taysan",
+      "Tingloy",
+      "Tuy"
+    ]
+  },
+  {
+    "value": "Laguna",
+    "synonyms": [
+      "Laguna",
+      "Alaminos",
+      "Bay",
+      "Biñan",
+      "Cabuyao",
+      "Calamba",
+      "Calauan",
+      "Cavinti",
+      "Famy",
+      "Kalayaan Laguna",
+      "Liliw",
+      "Los Baños",
+      "Luisiana",
+      "Lumban",
+      "Mabitac",
+      "Magdalena",
+      "Majayjay",
+      "Nagcarlan",
+      "Paete",
+      "Pagsanjan",
+      "Pakil",
+      "Pangil",
+      "Pila Laguna",
+      "Rizal Laguna",
+      "San Pablo Laguna",
+      "San Pedro",
+      "Santa Cruz",
+      "Santa Maria Laguna",
+      "Santa Rosa",
+      "Siniloan",
+      "Victoria Laguna"
+    ]
+  },
+  {
+    "value": "Quezon",
+    "synonyms": [
+      "Quezon",
+      "Agdangan",
+      "Alabat",
+      "Atimonan",
+      "Buenavista Quezon",
+      "Burdeos",
+      "Calauag",
+      "Candelaria Quezon",
+      "Catanauan",
+      "Dolores Quezon",
+      "General Luna Quezon",
+      "General Nakar",
+      "Guinayangan",
+      "Gumaca",
+      "Infanta Quezon",
+      "Jomalig",
+      "Lopez",
+      "Lucban",
+      "Lucena",
+      "Macalelon",
+      "Mauban",
+      "Mulanay",
+      "Padre Burgos Quezon",
+      "Pagbilao",
+      "Patnanungan",
+      "Panukulan",
+      "Perez",
+      "Pitogo Quezon",
+      "Plaridel Quezon",
+      "Polillo",
+      "Real",
+      "Sampaloc",
+      "San Andres Quezon",
+      "San Antonio Quezon",
+      "San Francisco Quezon",
+      "San Narciso Quezon",
+      "Sariaya",
+      "Tagkawayan",
+      "Tayabas",
+      "Tiaong",
+      "Unisan"
+    ]
+  },
+  {
+    "value": "Marinduque",
+    "synonyms": [
+      "Marinduque Marinduque",
+      "Boac",
+      "Buenavista Marinduque",
+      "Gasan",
+      "Mogpog",
+      "Santa Cruz Marinduque",
+      "Torrijos"
+    ]
+  },
+  {
+    "value": "Occidental Mindoro",
+    "synonyms": [
+      "Occidental Mindoro",
+      "Abra de Ilog",
+      "Calintaan",
+      "Looc",
+      "Lubang",
+      "Magsaysay Occidental Mindoro",
+      "Mamburao",
+      "Paluan",
+      "Rizal Occidcental Mindoro",
+      "Sablayan",
+      "San Jose Occidental Mindoro",
+      "Santa Cruz Occidental Mindoro"
+    ]
+  },
+  {
+    "value": "Oriental Mindoro",
+    "synonyms": [
+      "Oriental Mindoro",
+      "Baco",
+      "Bansud",
+      "Bongabong",
+      "Bulalacao",
+      "Calapan",
+      "Gloria",
+      "Mansalay",
+      "Naujan",
+      "Pinamalayan",
+      "Pola",
+      "Puerto Galera",
+      "Roxas Oriental Mindoro",
+      "San Teodoro",
+      "Socorro Oriental Mindoro",
+      "Victoria Oriental Mindoro"
+    ]
+  },
+  {
+    "value": "Palawan",
+    "synonyms": [
+      "Palawan",
+      "Aborlan",
+      "Agutaya",
+      "Araceli",
+      "Balabac",
+      "Bataraza",
+      "Brooke\u0027s Point",
+      "Busuanga",
+      "Cagayancillo",
+      "Coron",
+      "Culion",
+      "Cuyo",
+      "Dumaran",
+      "El Nido",
+      "Kalayaan Palawan",
+      "Linapacan",
+      "Magsaysay Palawan",
+      "Narra",
+      "Puerto Princesa",
+      "Quezon Palawan",
+      "Rizal",
+      "Roxas Palawan",
+      "San Vicente Palawan",
+      "Sofronio Española",
+      "Taytay"
+    ]
+  },
+  {
+    "value": "Romblon",
+    "synonyms": [
+      "Romblon",
+      "Alcantara Romblon",
+      "Banton",
+      "Cajidiocan",
+      "Calatrava Romblon",
+      "Concepcion Romblon",
+      "Corcuera",
+      "Ferrol",
+      "Looc",
+      "Magdiwang",
+      "Odiongan",
+      "San Agustin Romblon",
+      "San Andres Romblon",
+      "San Fernando Romblon",
+      "San Jose Romblon",
+      "Santa Fe Romblon",
+      "Santa Maria Romblon"
+    ]
+  },
+  {
+    "value": "Albay",
+    "synonyms": [
+      "Albay",
+      "Bacacay",
+      "Camalig",
+      "Daraga",
+      "Guinobatan",
+      "Jovellar",
+      "Legazpi",
+      "Libon",
+      "Ligao",
+      "Malilipot",
+      "Malinao",
+      "Manito",
+      "Oas",
+      "Pio Duran",
+      "Polangui",
+      "Rapu-Rapu",
+      "Santo Domingo Albay",
+      "Tabaco",
+      "Tiwi"
+    ]
+  },
+  {
+    "value": "Camarines Norte",
+    "synonyms": [
+      "Camarines Norte",
+      "Basud",
+      "Capalonga",
+      "Daet",
+      "Jose Panganiban",
+      "Labo",
+      "Mercedes Camarines Norte",
+      "Paracale",
+      "San Lorenzo Ruiz",
+      "San Vicente Camarines Norte",
+      "Santa Elena",
+      "Talisay",
+      "Vinzons"
+    ]
+  },
+  {
+    "value": "Camarines Sur",
+    "synonyms": [
+      "Camarines Sur",
+      "Baao",
+      "Balatan",
+      "Bato",
+      "Bombon",
+      "Buhi",
+      "Bula",
+      "Cabusao",
+      "Calabanga",
+      "Camaligan",
+      "Canaman",
+      "Caramoan",
+      "Del Gallego",
+      "Gainza",
+      "Garchitorena",
+      "Goa",
+      "Iriga",
+      "Lagonoy",
+      "Libmanan",
+      "Lupi",
+      "Magarao",
+      "Milaor",
+      "Minalabac",
+      "Nabua",
+      "Naga",
+      "Ocampo",
+      "Pamplona Camarines Sur",
+      "Pasacao",
+      "Pili",
+      "Presentacion",
+      "Ragay",
+      "Sagñay",
+      "San Fernando Camarines Sur",
+      "San Jose Camarines Sur",
+      "Sipocot",
+      "Siruma",
+      "Tigaon",
+      "Tinambac"
+    ]
+  },
+  {
+    "value": "Catanduanes",
+    "synonyms": [
+      "Catanduanes",
+      "Bagamanoc",
+      "Baras",
+      "Caramoran",
+      "Gigmoto",
+      "Pandan",
+      "Panganiban",
+      "San Andres Catanduanes",
+      "San Miguel Catanduanes",
+      "Viga",
+      "Virac",
+      "Bato Catanduanes"
+    ]
+  },
+  {
+    "value": "Masbate",
+    "synonyms": [
+      "Masbate",
+      "Aroroy",
+      "Baleno",
+      "Balud",
+      "Batuan",
+      "Cataingan",
+      "Cawayan",
+      "Claveria Masbate",
+      "Dimasalang",
+      "Esperanza Masbate",
+      "Mandaon",
+      "Masbate City",
+      "Milagros",
+      "Mobo",
+      "Monreal",
+      "Palanas",
+      "Pio V. Corpuz",
+      "Placer Masbate",
+      "San Fernando Masbate",
+      "San Jacinto Masbate",
+      "San Pascual Masbate",
+      "Uson"
+    ]
+  },
+  {
+    "value": "Sorsogon",
+    "synonyms": [
+      "Sorsogon",
+      "Barcelona",
+      "Bulan",
+      "Bulusan",
+      "Casiguran",
+      "Castilla",
+      "Donsol",
+      "Gubat",
+      "Irosin",
+      "Juban",
+      "Magallanes Sorsogon",
+      "Matnog",
+      "Pilar Sorsogon",
+      "Prieto Diaz",
+      "Santa Magdalena",
+      "Sorsogon City"
+    ]
+  },
+  {
+    "value": "Aklan",
+    "synonyms": [
+      "Aklan",
+      "Altavas",
+      "Balete Aklan",
+      "Batan",
+      "Banga Aklan",
+      "Buruanga",
+      "Ibajay",
+      "Kalibo",
+      "Lezo",
+      "Libacao",
+      "Madalag",
+      "Malay",
+      "Makato",
+      "Malinao",
+      "Nabas",
+      "New Washington",
+      "Numancia",
+      "Tangalan"
+    ]
+  },
+  {
+    "value": "Antique",
+    "synonyms": [
+      "Antique",
+      "Anini-y",
+      "Aniniy",
+      "Barbaza",
+      "Belison",
+      "Bugasong",
+      "Caluya",
+      "Culasi",
+      "Hamtic",
+      "Laua-an",
+      "Lauaan",
+      "Libertad",
+      "Pandan",
+      "Patnongon",
+      "San Jose de Buenavista",
+      "San Remigio Antique",
+      "Sebaste",
+      "Sibalom",
+      "Tibiao",
+      "Tobias Fornier",
+      "Valderama"
+    ]
+  },
+  {
+    "value": "Capiz",
+    "synonyms": [
+      "Capiz",
+      "Cuartero",
+      "Dao",
+      "Dumalag",
+      "Ivisan",
+      "Jamindan",
+      "Ma-ayon",
+      "Maayon",
+      "Mambusao",
+      "Panay",
+      "Panitan",
+      "Pontevedra Capiz",
+      "President Roxas Capiz",
+      "Roxas Capiz",
+      "Sapian",
+      "Sigma",
+      "Tapaz"
+    ]
+  },
+  {
+    "value": "Guimaras",
+    "synonyms": [
+      "Guimaras",
+      "Buenavista Guimaras",
+      "Jordan",
+      "Neuva Valencia",
+      "San Lorenzo",
+      "Sibunag"
+    ]
+  },
+  {
+    "value": "Iloilo",
+    "synonyms": [
+      "Iloilo",
+      "Ajuy",
+      "Alimodian",
+      "Anilao",
+      "Badiangan",
+      "Balasan",
+      "Banate",
+      "Barotac Nuevo",
+      "Barotac Viejo",
+      "Batad",
+      "Bingawan",
+      "Cabatuan",
+      "Calinog",
+      "Carles",
+      "Concepcion Iloilo",
+      "Dingle",
+      "Dueñas",
+      "Duenas",
+      "Dumangas",
+      "Estancia",
+      "Guimbal",
+      "Gimbal",
+      "Igbaras",
+      "Janiuay",
+      "Lambunao",
+      "Leganes",
+      "Lemery Iloilo",
+      "Leon",
+      "Maasin",
+      "Miagao",
+      "Mina",
+      "New Lucena",
+      "Oton",
+      "Pavia",
+      "Pototan",
+      "San Dionisio",
+      "San Enrique",
+      "San Joaquin",
+      "San Miguel Iloilo",
+      "San Rafael Iloilo",
+      "Santa Barbara Iloilo",
+      "Sara",
+      "Tigbauan",
+      "Tubungan",
+      "Zarraga"
+    ]
+  },
+  {
+    "value": "Negros Occidental",
+    "synonyms": [
+      "Negros Occidental",
+      "Binalbagan",
+      "Calatrava Negros Occidental",
+      "Candoni",
+      "Cauayan",
+      "Enrique B. Magalona",
+      "Hinigaran",
+      "Hinoba-an",
+      "Hinobaan",
+      "Ilog",
+      "Isabela Negros Occidental",
+      "La Castellana",
+      "Manapla",
+      "Moises Padilla",
+      "Murcia",
+      "Pontevedra Negros Occidental",
+      "Pulupandan",
+      "Salvador Benedicto",
+      "San Enrique",
+      "Toboso",
+      "Valladolid",
+      "Bacolod"
+    ]
+  },
+  {
+    "value": "Negros Oriental",
+    "synonyms": [
+      "Negros Oriental",
+      "Amlan",
+      "Ayungon",
+      "Bacong",
+      "Basay",
+      "Bindoy",
+      "Dauin",
+      "Jimalalud",
+      "La Libertad Negros Oriental",
+      "Mabinay",
+      "Manjuyod",
+      "Pamplona Negros Oriental",
+      "San Jose Negrod Occidental",
+      "Santa Catalina",
+      "Siaton",
+      "Sibulan",
+      "Tayasan",
+      "Valencia Negros Oriental",
+      "Vallehermoso",
+      "Zaboanguita"
+    ]
+  },
+  {
+    "value": "Bohol",
+    "synonyms": [
+      "Bohol",
+      "Alicia Bohol",
+      "Anda",
+      "Antequera",
+      "Baclayon",
+      "Batuan",
+      "Bien Unido",
+      "Bilar",
+      "Buenavista Bohol",
+      "Calape",
+      "Candijay",
+      "Carmen Bohol",
+      "Catigbian",
+      "Clarin Bohol",
+      "Corella",
+      "Cortes Bohol",
+      "Dagohoy",
+      "Danao",
+      "Dauis",
+      "Dimiao",
+      "Duero",
+      "Garcia Hernandez",
+      "Getafe",
+      "Guindulman",
+      "Inabanga",
+      "Jagna",
+      "Lila",
+      "Loay",
+      "Loboc",
+      "Mabini Bohol",
+      "Maribojoc",
+      "Panglao",
+      "Pila Bohol",
+      "President Carlos P. Garcia",
+      "Carlos Garcia",
+      "President Garcia",
+      "Pesident Carlos Garcia",
+      "Sagbayan",
+      "San Isidro Bohol",
+      "San Miguel Bohol",
+      "Sevilla",
+      "Sieera Bullones",
+      "Sikatuna",
+      "Talibon",
+      "Trinidad",
+      "Tubigon",
+      "Ubay",
+      "Valencia Bohol"
+    ]
+  },
+  {
+    "value": "Cebu",
+    "synonyms": [
+      "Cebu",
+      "Alcantara Cebu",
+      "Alcoy",
+      "Alegria Cebu",
+      "Aloguinsan",
+      "Argao",
+      "Asturias",
+      "Badian",
+      "Balamban",
+      "Bantayan",
+      "Barili",
+      "Boljoon",
+      "Borbon",
+      "Carmen Cebu",
+      "Catmon",
+      "Compostela Cebu",
+      "Consolacion",
+      "Cordova",
+      "Daanbantayan",
+      "Dalaguete",
+      "Dumanjug",
+      "Ginatilan",
+      "Liloan Cebu",
+      "Madridejos",
+      "Balabuyoc",
+      "Medellin",
+      "Minglanilla",
+      "Moalboal",
+      "Oslob",
+      "Pilar Cebu",
+      "Pinamungajan",
+      "Poro",
+      "Ronda",
+      "Samboan",
+      "San Fernando Cebu",
+      "San Francisco Cebu",
+      "San Remigio Cebu",
+      "Santa Fe Cebu",
+      "Santander",
+      "Sibonga",
+      "Sogod Cebu",
+      "Tabogon",
+      "Tabuelan",
+      "Tuburan",
+      "Tudela",
+      "Lapu-Lapu",
+      "Mandaue"
+    ]
+  },
+  {
+    "value": "Siquijor",
+    "synonyms": [
+      "Siquijor",
+      "Enrique Villanueva",
+      "Larena",
+      "Lazi",
+      "Maria",
+      "San Juan Siquijor"
+    ]
+  },
+  {
+    "value": "Biliran",
+    "synonyms": [
+      "Biliran",
+      "Almeria",
+      "Cabucgayan",
+      "Caibiran",
+      "Culaba",
+      "Kawayan",
+      "Maripipi",
+      "Naval"
+    ]
+  },
+  {
+    "value": "Eastern Samar",
+    "synonyms": [
+      "Eastern Samar",
+      "Arteche",
+      "Balangiga",
+      "Balangkayan",
+      "Can-avid",
+      "Canavid",
+      "Dolores Eastern Samar",
+      "General MacArthur",
+      "Macarthur",
+      "Giporlos",
+      "Hernani",
+      "Jipapad",
+      "Lawaan",
+      "Llorente",
+      "Maslog",
+      "Maydolong",
+      "Mercdes",
+      "Oras",
+      "Quinapondan",
+      "Salcedo Eastern Samar",
+      "San Julian",
+      "San Policarpo",
+      "Sulat",
+      "Taft"
+    ]
+  },
+  {
+    "value": "Leyte",
+    "synonyms": [
+      "Leyte",
+      "Abuyog",
+      "Alangalang",
+      "Albuera",
+      "Babatgon",
+      "Barugo",
+      "Bato Leyte",
+      "Burauen",
+      "Calubian",
+      "Capoocan",
+      "Carigara",
+      "Dagami",
+      "Dulag",
+      "Hilongos",
+      "Hindang",
+      "Inopacan",
+      "Isabel",
+      "Jaro",
+      "Javier",
+      "Julita",
+      "Kananga",
+      "La Paz",
+      "MacArthur",
+      "Mahaplag",
+      "Matag-ob",
+      "Matagob",
+      "Matalom",
+      "Mayorga",
+      "Merida",
+      "Palo",
+      "Palompon",
+      "Pastrana",
+      "San Isidro Leyte",
+      "San Miguel Leyte",
+      "Santa Fe Leyte",
+      "Tabango",
+      "Tabontabon",
+      "Tanauan",
+      "Tolosa",
+      "Tunga",
+      "Villaba"
+    ]
+  },
+  {
+    "value": "Northern Samar",
+    "synonyms": [
+      "Northern Samar",
+      "Allen",
+      "Biri",
+      "Bobon",
+      "Capul",
+      "Catubig",
+      "Gamay",
+      "Laoang",
+      "Lapinig",
+      "Las Navas",
+      "Laezares",
+      "Lope De Vega",
+      "Mapanas",
+      "Mondragon",
+      "Palapag",
+      "Pambujan",
+      "Rosario Northern Samar",
+      "San Antonio Northern Samar",
+      "San Isidro Northern Samar",
+      "San Jose Northern Samar",
+      "San Roque",
+      "San Vicente Northern Samar",
+      "Silvino Lobos",
+      "Victoria Northern Samar"
+    ]
+  },
+  {
+    "value": "Samar",
+    "synonyms": [
+      "Samar",
+      "Almagro",
+      "Basey",
+      "Calbiga",
+      "Daram",
+      "Gandara",
+      "Hinabangan",
+      "Jiabong",
+      "Marabut",
+      "Matuguinao",
+      "Motiong",
+      "Pagsanghan",
+      "Paranas",
+      "Pinabacdao",
+      "San Jorge",
+      "San Jose de Buan",
+      "San Sebastian",
+      "Santa Margarita",
+      "Santa Rita",
+      "Santo Niño Samar",
+      "Tagapul-an",
+      "Tagapulan",
+      "Talalora",
+      "Tarangnan",
+      "Villareal",
+      "Zumarraga"
+    ]
+  },
+  {
+    "value": "Southern Leyte",
+    "synonyms": [
+      "Southern Leyte",
+      "Tacloban",
+      "Anahawan",
+      "Bontoc",
+      "Hinunangan",
+      "Hinundayan",
+      "Libagon",
+      "Limasawa",
+      "Macrohon",
+      "Malitbog",
+      "Padre Burgos Southern Leyte",
+      "Pintuyan",
+      "Saint Bernard",
+      "San Francisco Southern Leyte",
+      "San Juan Southern leyte",
+      "San Ricardo",
+      "Silago",
+      "Sogod Southern Leyte",
+      "Tomas Oppus"
+    ]
+  },
+  {
+    "value": "Zamboanga del Norte",
+    "synonyms": [
+      "Zamboanga del Norte",
+      "Baliguian",
+      "Godod",
+      "Gutalac",
+      "Jose Dalman",
+      "Kalawit",
+      "Katipunan",
+      "La Libertad Zamboanga del Norte",
+      "Labason",
+      "Leon B. Postigo",
+      "Liloy",
+      "Manukan",
+      "Mutia",
+      "Piñan",
+      "Polanco",
+      "President Manuel A. Roxas",
+      "Rizal Zamboanga del Norte",
+      "Salug",
+      "Sergio Osmeña Sr.",
+      "Siayan",
+      "Sibuco",
+      "Sibutad",
+      "Sindangan",
+      "Siocon",
+      "Sirawai",
+      "Tampilisan"
+    ]
+  },
+  {
+    "value": "Zamboanga del Sur",
+    "synonyms": [
+      "Zamboanga del Sur",
+      "Aurora Zamboanga del Sur",
+      "Bayog",
+      "Dimataling",
+      "Dinas",
+      "dumingag",
+      "guipos",
+      "josefina",
+      "kumalarang",
+      "labangan",
+      "lakewood",
+      "lapuyan",
+      "mahayag",
+      "margosatubig",
+      "midsalip",
+      "molave",
+      "pitogo Zamboanga del Sur",
+      "ramon magsaysay",
+      "san miguel Zamboanga del Sur",
+      "san pablo",
+      "sominot",
+      "tabina",
+      "tambulig",
+      "tigbao",
+      "tukuran",
+      "vincezo a sagun"
+    ]
+  },
+  {
+    "value": "Zamboanga Sibugay",
+    "synonyms": [
+      "Zamboanga Sibugay",
+      "alicia Zamboanga Sibugay",
+      "buug",
+      "diplahan",
+      "imelda",
+      "ipil",
+      "kabasalan",
+      "mabuhay",
+      "malangas",
+      "naga",
+      "olutanga",
+      "payap",
+      "roseller lim",
+      "siay",
+      "talusan",
+      "titay",
+      "tungawan"
+    ]
+  },
+  {
+    "value": "Bukidnon",
+    "synonyms": [
+      "Bukidnon",
+      "baungon",
+      "cabangalasan",
+      "damulog",
+      "dangacagan",
+      "don carlos",
+      "impasugong",
+      "kadingilan",
+      "kalilangan",
+      "kibawe",
+      "kitaotao",
+      "lantapan",
+      "libona",
+      "malitbog",
+      "manolo fortich",
+      "maramag",
+      "pangantucan",
+      "quezon Bukidnon",
+      "san fernando Bukidnon",
+      "sumilao",
+      "talakag"
+    ]
+  },
+  {
+    "value": "Camiguin",
+    "synonyms": [
+      "Camiguin",
+      "catarman",
+      "guinsiliban",
+      "mahinog",
+      "mambajao",
+      "sagay"
+    ]
+  },
+  {
+    "value": "Lanao del Norte",
+    "synonyms": [
+      "Lanao del Norte"
+    ]
+  },
+  {
+    "value": "Misamis Occidental",
+    "synonyms": [
+      "Misamis Occidental",
+      "aloran",
+      "baliangao",
+      "bonifacio",
+      "calamba",
+      "clarin Misamis Occidental",
+      "concepcion Misamis Occidental",
+      "don victoriano chiongbian",
+      "jimenez",
+      "lopez jaena",
+      "panaon",
+      "plaridel Misamis Occidental",
+      "sapang dalaga",
+      "sinacaban"
+    ]
+  },
+  {
+    "value": "Misamis Oriental",
+    "synonyms": [
+      "Misamis Oriental",
+      "alubiiid",
+      "balingasag",
+      "balingoan",
+      "binuangan",
+      "claveria Misamis Oriental",
+      "gitagum",
+      "initao",
+      "jasaan",
+      "kinoguitan",
+      "lagonglong",
+      "laguindingan",
+      "libertad",
+      "lugait",
+      "magsaysay Misamis Oriental",
+      "manticao",
+      "medina",
+      "naawanopol",
+      "salay",
+      "sugbongcogon",
+      "tagoloan",
+      "talisayan",
+      "villanueva"
+    ]
+  },
+  {
+    "value": "Davao de Oro",
+    "synonyms": [
+      "Davao de Oro",
+      "Compostela Davao de Oro",
+      "Laak",
+      "Mabini",
+      "Maco",
+      "Maragusan",
+      "Mawab",
+      "Monkayo",
+      "Montevista",
+      "Nabunturan",
+      "New Bataan",
+      "Pantukan"
+    ]
+  },
+  {
+    "value": "Davao del Norte",
+    "synonyms": [
+      "Davao del Norte",
+      "Asuncion",
+      "Braulio E. Dujali",
+      "Carmen Davao del Norte",
+      "Kapalong",
+      "New Corella",
+      "San Isidro",
+      "Santo Tomas Davao del Norte",
+      "Talaingod"
+    ]
+  },
+  {
+    "value": "Davao del Sur",
+    "synonyms": [
+      "Davao del Sur",
+      "Bansalan",
+      "Hagonoy Davao del Sur",
+      "Kiblawan",
+      "Magsaysay Davao del Sur",
+      "Malalag",
+      "Matanao",
+      "Padada",
+      "Santa Cruz Davao del Sur",
+      "Sulop",
+      "Davao",
+      "Davao City",
+      "City of Davao"
+    ]
+  },
+  {
+    "value": "Davao Occidental",
+    "synonyms": [
+      "Davao Occidental",
+      "Don Marcelino",
+      "Jose Abad Santos",
+      "Malita",
+      "Santa Maria Davao Occidental",
+      "Sarangani"
+    ]
+  },
+  {
+    "value": "Sultan Kudarat",
+    "synonyms": [
+      "Sultan Kudarat",
+      "bagumbayan",
+      "columbio",
+      "esperanza Sultan Kudarat",
+      "isulan",
+      "kalamansig",
+      "lambayong",
+      "lebak",
+      "lutayan",
+      "palimbang",
+      "president quirino",
+      "senator ninoy aquino"
+    ]
+  },
+  {
+    "value": "Agusan del Norte",
+    "synonyms": [
+      "Agusan del Norte",
+      "Buenavista",
+      "carmen Agusan del Norte",
+      "jabonga",
+      "kitcharao",
+      "las nieves",
+      "magallanes Agusan del Norte",
+      "nasipit",
+      "remedios t romualdez",
+      "santiago",
+      "tubay"
+    ]
+  },
+  {
+    "value": "Agusan del Sur",
+    "synonyms": [
+      "Agusan del Sur",
+      "Bunawan",
+      "esperanza Agusan del Sur",
+      "Lapaz Agusan del Sur",
+      "koreto",
+      "prosperidad",
+      "rosario",
+      "san francisco Agusan del Sur",
+      "sab kuis",
+      "santa josefa",
+      "sibagat",
+      "talacogon",
+      "trento",
+      "veruela"
+    ]
+  },
+  {
+    "value": "Dinagat Islands",
+    "synonyms": [
+      "Dinagat Islands",
+      "basilisa",
+      "cagdianao",
+      "dinagat",
+      "libjo",
+      "loreto",
+      "san juan dinagat islands",
+      "tuba"
+    ]
+  },
+  {
+    "value": "Surigao del Norte",
+    "synonyms": [
+      "Surigao del Norte",
+      "alegria surigao del norte",
+      "bacuag",
+      "burgos Surigao del Norte",
+      "claver",
+      "dapa",
+      "del carmen",
+      "general luna Surigao del Norte",
+      "gigaquit",
+      "mainit",
+      "malimono",
+      "pilar Surigao del Norte",
+      "placer Surigao del Norte",
+      "san benito",
+      "san francisco",
+      "san isidro",
+      "santa monica",
+      "sison Surigao del Norte",
+      "socorro Surigao del Norte",
+      "tangana-an",
+      "tubod Surigao del Norte"
+    ]
+  },
+  {
+    "value": "Surigao del Sur",
+    "synonyms": [
+      "Surigao del Sur",
+      "barobo",
+      "bayabas",
+      "cagwait",
+      "cantilan",
+      "carmen Surigao del Sur",
+      "carrascal",
+      "cortes Surigao del Sur",
+      "hinatuan",
+      "lanuza",
+      "lianga",
+      "lingig",
+      "madrid",
+      "marihatag",
+      "san agustin",
+      "tagbina"
+    ]
+  },
+  {
+    "value": "Basilan",
+    "synonyms": [
+      "Basilan",
+      "akbar",
+      "al-barka",
+      "Hadji Mohammad Ajul",
+      "Hadji Muhtamad",
+      "Lantawan",
+      "Maluso",
+      "Sumisip",
+      "Tabuan-Lasa",
+      "Tipo-Tipo",
+      "Tuburan"
+    ]
+  },
+  {
+    "value": "Lanao del Sur",
+    "synonyms": [
+      "Lanao del Sur",
+      "Amai Manabilang",
+      "Bacolod-Kalawi",
+      "Balabagan",
+      "Balindong",
+      "Bayang",
+      "Binidayan",
+      "Buadiposo-Buntong",
+      "Bubong",
+      "Butig",
+      "Calanogas",
+      "Ditsaan-Ramain",
+      "Ganassi",
+      "Kapai",
+      "Kapatagan Lanao del Sur",
+      "Lumba-Bayabao",
+      "Lumbaca-Unayan",
+      "Lumbatan",
+      "Lumbayanague",
+      "Madalum",
+      "Madamba",
+      "Maguing",
+      "Malabang",
+      "Marantao",
+      "Masiu",
+      "Mulondo",
+      "Pagayawan",
+      "Piagapo",
+      "Picong",
+      "Poona Bayabao",
+      "Pualas",
+      "Saguiaran",
+      "Sultan Dumalondong",
+      "Tagoloan II",
+      "Tamparan",
+      "Taraka",
+      "Tubaran",
+      "Tugaya",
+      "Wao"
+    ]
+  },
+  {
+    "value": "Maguindanao",
+    "synonyms": [
+      "Maguindanao",
+      "Barira",
+      "Ampatuan",
+      "Buldon",
+      "Buluan",
+      "Datu Abdullah Sangki",
+      "Datu Anggal Midtimbang",
+      "Datu Blah T. Sinsuat",
+      "Datu Hoffer Ampatuan",
+      "Datu Montawal",
+      "Datu Odin Sinsuat",
+      "Datu Paglas",
+      "Datu Piang",
+      "Datu Salibo",
+      "Datu Saudi-Ampatuan",
+      "Datu Unsay",
+      "General Salipada K. Pendatun",
+      "Guindulungan",
+      "Kabuntalan",
+      "Mamasapano",
+      "Mangudadatu",
+      "Matanog"
+    ]
+  },
+  {
+    "value": "Sulu",
+    "synonyms": [
+      "Sulu",
+      "Banguingui",
+      "Hadji Panglima Tahil",
+      "Indanan",
+      "Jolo",
+      "Kalingalan Caluang",
+      "Lugus",
+      "Luuk",
+      "Maimbung",
+      "Old Panamao",
+      "Omar",
+      "Pandami",
+      "Panglima Estino",
+      "Pangutaran",
+      "Parang",
+      "Pata",
+      "Patikul",
+      "Siasi",
+      "Talipao",
+      "Tapul"
+    ]
+  },
+  {
+    "value": "Tawi-Tawi",
+    "synonyms": [
+      "Tawi-Tawi",
+      "Bongao",
+      "Languyan",
+      "Mapun",
+      "Panglima Sugala",
+      "Sapa-Sapa",
+      "Sibutu",
+      "Simunul",
+      "Sitangkai",
+      "South Ubian",
+      "Tandubas"
+    ]
+  },
+  {
+    "value": "Bacolod",
+    "synonyms": [
+      "Bacolod",
+      "balo-i",
+      "baroy",
+      "kapatagan Bacolod",
+      "kauswagan",
+      "kolambugan",
+      "lala",
+      "linamon",
+      "magsaysay Bacolod",
+      "maigo",
+      "matungao",
+      "munai",
+      "nunungan",
+      "pantao ragat",
+      "pantar",
+      "poona piagapo",
+      "salvador",
+      "sapad",
+      "sultan naga dimaporo",
+      "tagoloan",
+      "tangacal",
+      "tubod Bacolod"
+    ]
+  },
+  {
+    "value": "tudela",
+    "synonyms": [
+      "tudela"
+    ]
+  },
+  {
+    "value": "Iligan",
+    "synonyms": [
+      "Iligan"
+    ]
+  },
+  {
+    "value": "North Cotobato",
+    "synonyms": [
+      "North Cotobato",
+      "alamada",
+      "aleosan",
+      "antipas",
+      "arakan",
+      "banisilan",
+      "cotobato",
+      "carmen North Cotabato",
+      "kabacan",
+      "libungan",
+      "m\u0027lang",
+      "magpet",
+      "makilala",
+      "matalam",
+      "midsaya",
+      "pigcawayan",
+      "pikit",
+      "president roxas North Cotabato",
+      "tulunan"
+    ]
+  },
+  {
+    "value": "Saragani",
+    "synonyms": [
+      "Saragani",
+      "alabel",
+      "glan",
+      "kiamba",
+      "maasim",
+      "maitum",
+      "malapatan",
+      "malungon"
+    ]
+  },
+  {
+    "value": "South Cotobato",
+    "synonyms": [
+      "South Cotobato",
+      "banga South Cotabato",
+      "lake sebu",
+      "norala",
+      "polomolok",
+      "Santo Niño South Cotabato",
+      "surallah",
+      "T\u0027boli",
+      "tampakan",
+      "tantangan",
+      "tui"
+    ]
+  },
+  {
+    "value": "General Santos",
+    "synonyms": [
+      "General Santos",
+      "Gen San"
+    ]
+  },
+  {
+    "value": "Butuan",
+    "synonyms": [
+      "butuan"
+    ]
+  },
+  {
+    "value": "Northern Kabuntalan",
+    "synonyms": [
+      "Northern Kabuntalan",
+      "Pagalungan",
+      "Paglat",
+      "Pandag",
+      "Parang",
+      "Rajah Buayan",
+      "Shariff Aguak",
+      "Shariff Kabunsuan",
+      "Shariff Saydona Mustapha",
+      "South Upi",
+      "Sultan Kudarat",
+      "Sultan Mastura",
+      "Sultan sa Barongis",
+      "Sultan Sumagka",
+      "Talayan",
+      "Upi"
+    ]
+  },
+  {
+    "value": "Davao Oriental",
+    "synonyms": [
+      "Davao Oriental",
+      "Baganga",
+      "Banaybanay",
+      "Boston",
+      "Caraga",
+      "Cateel",
+      "Governor Generoso",
+      "Lupon",
+      "Manay",
+      "San Isidro",
+      "Tarragona"
+    ]
+  },
+  {
+    "value": "City of Manila",
+    "synonyms": [
+      "City of Manila",
+      "Maynila",
+      "mnl",
+      "mla",
+      "manila"
+    ]
+  },
+  {
+    "value": "Binondo",
+    "synonyms": [
+      "Binondo",
+      "Chinatown"
+    ]
+  },
+  {
+    "value": "Ermita",
+    "synonyms": [
+      "Ermita"
+    ]
+  },
+  {
+    "value": "Intramuros",
+    "synonyms": [
+      "Intramuros",
+      "Wall City",
+      "intra"
+    ]
+  },
+  {
+    "value": "Malate",
+    "synonyms": [
+      "Malate"
+    ]
+  },
+  {
+    "value": "Paco",
+    "synonyms": [
+      "Paco"
+    ]
+  },
+  {
+    "value": "Pandacan",
+    "synonyms": [
+      "Pandacan",
+      "pandakan"
+    ]
+  },
+  {
+    "value": "Port Area",
+    "synonyms": [
+      "Port Area",
+      "Pier"
+    ]
+  },
+  {
+    "value": "Quiapo",
+    "synonyms": [
+      "Quiapo"
+    ]
+  },
+  {
+    "value": "San Andres",
+    "synonyms": [
+      "San Andres"
+    ]
+  },
+  {
+    "value": "San Miguel",
+    "synonyms": [
+      "San Miguel"
+    ]
+  },
+  {
+    "value": "San Nicolas",
+    "synonyms": [
+      "San Nicolas"
+    ]
+  },
+  {
+    "value": "Santa Ana",
+    "synonyms": [
+      "Santa Ana",
+      "Sta. Ana"
+    ]
+  },
+  {
+    "value": "Tondo",
+    "synonyms": [
+      "Tondo",
+      "Tondo I",
+      "Tondo 1",
+      "Tondo II",
+      "Tondo 2",
+      "Tondo North",
+      "Tondo South"
+    ]
+  },
+  {
+    "value": "City of Mandaluyong",
+    "synonyms": [
+      "City of Mandaluyong",
+      "Mandaluyong",
+      "Manda"
+    ]
+  },
+  {
+    "value": "City of Marikina",
+    "synonyms": [
+      "City of Marikina",
+      "Marikina",
+      "Shoe Capital"
+    ]
+  },
+  {
+    "value": "City of Pasig",
+    "synonyms": [
+      "City of Pasig",
+      "Pasig"
+    ]
+  },
+  {
+    "value": "Quezon City",
+    "synonyms": [
+      "Quezon City",
+      "QC",
+      "Kyusi",
+      "q.c"
+    ]
+  },
+  {
+    "value": "City of San Juan",
+    "synonyms": [
+      "City of San Juan",
+      "San Juan"
+    ]
+  },
+  {
+    "value": "City of Caloocan",
+    "synonyms": [
+      "City of Caloocan",
+      "Caloocan"
+    ]
+  },
+  {
+    "value": "City of Navotas",
+    "synonyms": [
+      "City of Navotas",
+      "Navotas"
+    ]
+  },
+  {
+    "value": "City of Valenzuela",
+    "synonyms": [
+      "City of Valenzuela",
+      "Valenzuela"
+    ]
+  },
+  {
+    "value": "City of Las Piñas",
+    "synonyms": [
+      "City of Las Piñas",
+      "Las Piñas",
+      "Las Pinas"
+    ]
+  },
+  {
+    "value": "City of Makati",
+    "synonyms": [
+      "City of Makati",
+      "Makati"
+    ]
+  },
+  {
+    "value": "City of Muntinlupa",
+    "synonyms": [
+      "City of Muntinlupa",
+      "Muntinlupa"
+    ]
+  },
+  {
+    "value": "City of Parañaque",
+    "synonyms": [
+      "City of Parañaque",
+      "Parañaque",
+      "Paranaque"
+    ]
+  },
+  {
+    "value": "Pasay City",
+    "synonyms": [
+      "Pasay City",
+      "Pasay"
+    ]
+  },
+  {
+    "value": "Pateros",
+    "synonyms": [
+      "Pateros"
+    ]
+  },
+  {
+    "value": "City of Taguig",
+    "synonyms": [
+      "City of Taguig",
+      "Taguig",
+      "Tagig"
+    ]
+  },
+  {
+    "value": "Aurora",
+    "synonyms": [
+      "Aurora",
+      "Baler",
+      "Casiguran",
+      "Dilasag",
+      "Dinalungan",
+      "Dingalan",
+      "Dipaculao",
+      "Maria Aurora",
+      "San Luis"
+    ]
+  },
+  {
+    "value": "Pampanga",
+    "synonyms": [
+      "Pampanga",
+      "Angeles",
+      "Angeles City",
+      "San Fernando",
+      "Mabalacat",
+      "Magalang",
+      "Porac",
+      "Sta. Rita",
+      "Santa Rita",
+      "Guagua",
+      "Bacolor",
+      "Mexico",
+      "Arayat",
+      "Sta. Ana",
+      "Santa Ana",
+      "Candaba",
+      "San Luis",
+      "San Simon",
+      "Sto. Tomas",
+      "Apalit",
+      "Minalin",
+      "Macabebe",
+      "Masantol",
+      "Lubao",
+      "Floridablanca",
+      "Sasmuan"
+    ]
+  },
+  {
+    "value": "Rizal",
+    "synonyms": [
+      "Rizal",
+      "Cainta",
+      "Rodriguez",
+      "San Mateo",
+      "Taytay",
+      "Angono",
+      "Baras",
+      "Binangonan",
+      "Cardona",
+      "Jalajala",
+      "Morong",
+      "Pililla",
+      "Tanay",
+      "Teresa",
+      "Antipolo City",
+      "Antipolo"
+    ]
+  },
+  {
+    "value": "City of Malabon",
+    "synonyms": [
+      "City of Malabon",
+      "Malabon"
+    ]
+  }
+]

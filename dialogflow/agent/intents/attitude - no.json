@@ -1,0 +1,87 @@
+{
+  "id": "eba926b1-23a4-4a8d-b8cf-79492716386e",
+  "parentId": "d3d6ddda-b25f-4c36-867f-5035ccd6db20",
+  "rootParentId": "d3d6ddda-b25f-4c36-867f-5035ccd6db20",
+  "name": "attitude - no",
+  "auto": true,
+  "contexts": [
+    "attitude-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "attitude.attitude-no",
+      "affectedContexts": [
+        {
+          "name": "overall-feedback",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b3ee940c-33fa-49a7-a3ff-61c196192ce8",
+          "name": "negative",
+          "required": true,
+          "dataType": "@negative",
+          "value": "$negative",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry, oo at hindi lamang ang inaasahan kong sagot dito."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Naku, hindi ko inaasahan na ganiyan ang iyong naranasan.",
+            "Ikinalulungkot ko na may ganiyan pa lang klaseng delivery rider.",
+            "Hindi mo deserve iyan.",
+            "Hala, bakit kaya ganoon sila..."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Maaari ka bang magbigay ng overall feedback?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pwede mong ilahad ang mga hinaing o reklamo sa courier na iyong pinili."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,91 @@
+{
+  "id": "3e9b5a03-6c9c-40cc-a5f7-035445e0b3a3",
+  "name": "feedback",
+  "auto": true,
+  "contexts": [
+    "feedback"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "feedback-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "feedback-fallback",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "712c7bbb-c140-430d-bca8-664c20105f45",
+          "name": "greetings",
+          "required": false,
+          "dataType": "@greetings",
+          "value": "$greetings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e28acb2b-e0f2-4622-85a9-11f7b703c80d",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Anong pwede kong itawag sa iyo?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi, $person!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Gusto mo bang mag-send ng feedback sa courier na iyong ginamit recently?",
+            "Nais mo bang magbigay ng feedback sa courier na iyong ginamit?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

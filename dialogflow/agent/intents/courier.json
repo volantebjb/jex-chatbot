@@ -1,0 +1,80 @@
+{
+  "id": "f6705ba2-892a-4f6c-804a-98a43fbd6484",
+  "name": "courier",
+  "auto": true,
+  "contexts": [
+    "courier"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "location",
+          "lifespan": 5
+        },
+        {
+          "name": "location-fallback",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "72d68d94-19c7-43a8-889f-b55d73983737",
+          "name": "courier",
+          "required": true,
+          "dataType": "@courier",
+          "value": "$courier",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Ano ba ang courier na iyong ginamit?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ah, $courier pala \u0027yan.",
+            "Balita ko marami ang tumatangkilik diyan.",
+            "Maganda ang iyong naging desisyon.",
+            "Good to know na $courier ang courier service na iyong pinli.",
+            "Mahusay kang pumili."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Saan mo naman ipinadala ang iyong parcel?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

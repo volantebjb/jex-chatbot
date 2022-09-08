@@ -1,0 +1,75 @@
+{
+  "id": "ef7f9313-6d6c-4599-99be-5d91a28fa28e",
+  "parentId": "4ceedb34-6ef2-4b80-8b0a-843b72054cdb",
+  "rootParentId": "4ceedb34-6ef2-4b80-8b0a-843b72054cdb",
+  "name": "reliability - no",
+  "auto": true,
+  "contexts": [
+    "reliability-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reliability.reliability-no",
+      "affectedContexts": [
+        {
+          "name": "standardization-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "standardization-fallback",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "84bf847a-0e32-495f-8f9e-3a1ac5126e78",
+          "name": "negative",
+          "required": true,
+          "dataType": "@negative",
+          "value": "$negative",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ay sus!",
+            "Hmmm...",
+            "Hindi dapat sila gan\u0027yan!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Chineck ba nila ang identity mo bago ibigay sa\u0027yo ang parcel?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

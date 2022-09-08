@@ -1,0 +1,46 @@
+{
+  "id": "240c767a-4d21-4596-857a-28b29ad62514",
+  "name": "feedback - fallback",
+  "contexts": [
+    "feedback-fallback"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "feedback.feedback-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oo at hindi lamang ang tinatanggap kong sagot dito."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

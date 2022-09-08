@@ -1,0 +1,48 @@
+{
+  "id": "f017ed40-f270-4869-9d4d-0b02770bb5d6",
+  "name": "default - fallback",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hindi ko na-gets. Can you say it again?",
+            "I missed what you said. Ano ulit iyon?",
+            "Sorry, maaari mo bang ulitin ang iyong sinabi?",
+            "Sorry, ano ulit ang iyong sinabi?",
+            "Maaari mo bang ulitin ang iyong sinabi?",
+            "Sorry, hindi ko na-gets. Maaari mo bang i-rephrase ang iyong sinabi?",
+            "Sorry, ano ulit iyon?",
+            "Pakiulit nga ulit ang iyong sinabi.",
+            "Ano iyon?",
+            "Maaari mo bang ulitin ang iyong sinabi?",
+            "I didn\u0027t get that. Maaari mo bang ulitin?",
+            "I missed that, ano ulit iyon?",
+            "Medyo hindi kita gets, ano ulit iyon?",
+            "Huh? Ano ulit iyon?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

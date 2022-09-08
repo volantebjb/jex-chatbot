@@ -1,0 +1,76 @@
+[
+  {
+    "id": "9fbe50fb-ddee-43eb-bd7e-d605a105fb4c",
+    "data": [
+      {
+        "text": "Ako si ",
+        "userDefined": false
+      },
+      {
+        "text": "Cams",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "389d869a-7128-4e0c-abfb-4dac67fda6d0",
+    "data": [
+      {
+        "text": "Hi",
+        "meta": "@greetings",
+        "alias": "greetings",
+        "userDefined": false
+      },
+      {
+        "text": ", Im ",
+        "userDefined": false
+      },
+      {
+        "text": "Joshu",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27192dc1-ea29-487f-a818-6bf6f5286585",
+    "data": [
+      {
+        "text": "Nathaniel",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afccdcaa-b40e-4411-982f-0d83cf6f1eae",
+    "data": [
+      {
+        "text": "hi",
+        "meta": "@greetings",
+        "alias": "greetings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

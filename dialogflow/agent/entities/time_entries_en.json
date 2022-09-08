@@ -1,0 +1,412 @@
+[
+  {
+    "value": "00:00",
+    "synonyms": [
+      "12 a.m",
+      "12am",
+      "12 am",
+      "12AM",
+      "12 AM",
+      "12:00AM",
+      "12:00 AM",
+      "alas dose ng madaling araw",
+      "twelve am",
+      "alas dose ng umaga",
+      "ika-labing dalawa ng umaga",
+      "00:00"
+    ]
+  },
+  {
+    "value": "01:00",
+    "synonyms": [
+      "1 a.m",
+      "1am",
+      "1 am",
+      "1AM",
+      "1 AM",
+      "1:00AM",
+      "1:00 AM",
+      "ala una ng madaling araw",
+      "one am",
+      "ala una ng umaga",
+      "ika-una ng umaga",
+      "01:00"
+    ]
+  },
+  {
+    "value": "02:00",
+    "synonyms": [
+      "2 a.m",
+      "2am",
+      "2 am",
+      "2AM",
+      "2 AM",
+      "2:00AM",
+      "2:00 AM",
+      "alas dos ng madaling araw",
+      "two am",
+      "alas dos ng umaga",
+      "ika-dalawa ng umaga",
+      "02:00"
+    ]
+  },
+  {
+    "value": "03:00",
+    "synonyms": [
+      "3 a.m",
+      "3am",
+      "3 am",
+      "3AM",
+      "3 AM",
+      "3:00AM",
+      "3:00 AM",
+      "alas tres ng madaling araw",
+      "three am",
+      "alas tres ng umaga",
+      "ika-tatlo ng umaga",
+      "03:00"
+    ]
+  },
+  {
+    "value": "04:00",
+    "synonyms": [
+      "4 a.m",
+      "4am",
+      "4 am",
+      "4AM",
+      "4 AM",
+      "4:00 AM",
+      "4:00AM",
+      "alas kwatro ng madaling araw",
+      "alas cuatro ng madaling araw",
+      "four am",
+      "alas kwatro ng umaga",
+      "alas cuatro ng umaga",
+      "ika-apat ng umaga",
+      "04:00"
+    ]
+  },
+  {
+    "value": "05:00",
+    "synonyms": [
+      "5 a.m",
+      "5am",
+      "5 am",
+      "5AM",
+      "5 AM",
+      "5:00AM",
+      "5:00 AM",
+      "ala singko ng madaling araw",
+      "alas singko ng madaling araw",
+      "five am",
+      "alas singko ng umaga",
+      "ala singko ng umaga",
+      "ika-lima ng umaga",
+      "05:00"
+    ]
+  },
+  {
+    "value": "06:00",
+    "synonyms": [
+      "6 a.m",
+      "6am",
+      "6 am",
+      "6AM",
+      "6 AM",
+      "6:00AM",
+      "6:00 AM",
+      "ala sais ng umaga",
+      "alas sais ng umaga",
+      "six am",
+      "ika-anim ng umaga",
+      "06:00"
+    ]
+  },
+  {
+    "value": "07:00",
+    "synonyms": [
+      "7 a.m",
+      "7am",
+      "7 am",
+      "7AM",
+      "7 AM",
+      "7:00AM",
+      "7:00 AM",
+      "ala siyete ng umaga",
+      "alas siyete ng umaga",
+      "ala siete ng umaga",
+      "alas siete ng umaga",
+      "ika-pito ng umaga",
+      "seven am",
+      "07:00"
+    ]
+  },
+  {
+    "value": "08:00",
+    "synonyms": [
+      "8 a.m",
+      "8am",
+      "8 am",
+      "8AM",
+      "8 AM",
+      "8:00AM",
+      "8:00 AM",
+      "alas otso ng umaga",
+      "alas ocho ng umaga",
+      "ika-walo ng umaga",
+      "eight am",
+      "08:00"
+    ]
+  },
+  {
+    "value": "09:00",
+    "synonyms": [
+      "9 a.m",
+      "9am",
+      "9 am",
+      "9AM",
+      "9 AM",
+      "9:00AM",
+      "9:00 AM",
+      "alas nuebe ng umaga",
+      "alas nwebe ng umaga",
+      "ika-siyam ng umaga",
+      "nine am",
+      "09:00"
+    ]
+  },
+  {
+    "value": "10:00",
+    "synonyms": [
+      "10 a.m",
+      "10am",
+      "10 am",
+      "10AM",
+      "10 AM",
+      "10:00AM",
+      "10:00 AM",
+      "alas dyis ng umaga",
+      "ika-sampu ng umaga",
+      "ten am",
+      "10:00"
+    ]
+  },
+  {
+    "value": "11:00",
+    "synonyms": [
+      "11 a.m",
+      "11am",
+      "11 am",
+      "11AM",
+      "11 AM",
+      "11:00AM",
+      "11:00 AM",
+      "alas onse ng umaga",
+      "ika-labing isa ng umaga",
+      "eleven am",
+      "11:00"
+    ]
+  },
+  {
+    "value": "12:00",
+    "synonyms": [
+      "12 p.m",
+      "12pm",
+      "12 pm",
+      "12PM",
+      "12 PM",
+      "12:00PM",
+      "12:00 PM",
+      "alas dose ng tanghali",
+      "ika-labingdalawa ng tanghali",
+      "alas dose ng hapon",
+      "ika-labingdalawa ng hapon",
+      "twelve pm",
+      "12:00"
+    ]
+  },
+  {
+    "value": "13:00",
+    "synonyms": [
+      "1 p.m",
+      "1pm",
+      "1 pm",
+      "1PM",
+      "1 PM",
+      "1:00PM",
+      "1:00 PM",
+      "ala una ng hapon",
+      "ika-una ng hapon",
+      "one pm",
+      "13:00"
+    ]
+  },
+  {
+    "value": "14:00",
+    "synonyms": [
+      "2 p.m",
+      "2pm",
+      "2 pm",
+      "2PM",
+      "2 PM",
+      "2:00PM",
+      "2:00 PM",
+      "alas dos ng hapon",
+      "ika-dalawa ng hapon",
+      "two pm",
+      "14:00"
+    ]
+  },
+  {
+    "value": "15:00",
+    "synonyms": [
+      "3 p.m",
+      "3pm",
+      "3 pm",
+      "3PM",
+      "3 PM",
+      "3:00PM",
+      "3:00 PM",
+      "alas tres ng hapon",
+      "ika-tatlo ng hapon",
+      "three pm",
+      "15:00"
+    ]
+  },
+  {
+    "value": "16:00",
+    "synonyms": [
+      "4 p.m",
+      "4pm",
+      "4 pm",
+      "4PM",
+      "4 PM",
+      "4:00PM",
+      "4:00 PM",
+      "alas kwatro ng hapon",
+      "alas cuatro ng hapon",
+      "ika-apat ng hapon",
+      "four pm",
+      "16:00"
+    ]
+  },
+  {
+    "value": "17:00",
+    "synonyms": [
+      "5 p.m",
+      "5pm",
+      "5 pm",
+      "5PM",
+      "5 PM",
+      "5:00PM",
+      "5:00 PM",
+      "alas singko ng hapon",
+      "ala singko ng hapon",
+      "alas sinko ng hapon",
+      "ika-lima ng hapon",
+      "five pm",
+      "17:00"
+    ]
+  },
+  {
+    "value": "18:00",
+    "synonyms": [
+      "6 p.m",
+      "6pm",
+      "6 pm",
+      "6PM",
+      "6 PM",
+      "6:00PM",
+      "6:00 PM",
+      "alas sais ng gabi",
+      "ala sais ng gabi",
+      "ika-anim ng gabi",
+      "six pm",
+      "18:00"
+    ]
+  },
+  {
+    "value": "19:00",
+    "synonyms": [
+      "7 p.m",
+      "7pm",
+      "7 pm",
+      "7PM",
+      "7 PM",
+      "7:00PM",
+      "7:00 PM",
+      "alas siyete ng gabi",
+      "ala siyete ng gabi",
+      "alas siete ng gabi",
+      "ika-pito ng gabi",
+      "seven pm",
+      "19:00"
+    ]
+  },
+  {
+    "value": "20:00",
+    "synonyms": [
+      "8 p.m",
+      "8pm",
+      "8 pm",
+      "8PM",
+      "8 PM",
+      "8:00PM",
+      "8:00 PM",
+      "alas otso ng gabi",
+      "alas ocho ng gabi",
+      "ika-walo ng gabi",
+      "eight pm",
+      "20:00"
+    ]
+  },
+  {
+    "value": "21:00",
+    "synonyms": [
+      "9 p.m",
+      "9pm",
+      "9 pm",
+      "9PM",
+      "9 PM",
+      "9:00PM",
+      "9:00 PM",
+      "alas nuebe ng gabi",
+      "alas nwebe ng gabi",
+      "ika-siyam ng gabi",
+      "nine pm",
+      "21:00"
+    ]
+  },
+  {
+    "value": "22:00",
+    "synonyms": [
+      "10 p.m",
+      "10pm",
+      "10 pm",
+      "10PM",
+      "10 PM",
+      "10:00PM",
+      "10:00 PM",
+      "alas dyis ng gabi",
+      "ika-samput ng gabi",
+      "ten pm",
+      "22:00"
+    ]
+  },
+  {
+    "value": "23:00",
+    "synonyms": [
+      "11 p.m",
+      "11pm",
+      "11 pm",
+      "11PM",
+      "11 PM",
+      "11:00PM",
+      "11:00 PM",
+      "alas onse ng gabi",
+      "ika-labing isa ng gabi",
+      "eleven pm",
+      "23:00"
+    ]
+  }
+]

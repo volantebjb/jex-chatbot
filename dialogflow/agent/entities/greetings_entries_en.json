@@ -1,0 +1,133 @@
+[
+  {
+    "value": "uy",
+    "synonyms": [
+      "uy",
+      "hoy",
+      "oy",
+      "oi",
+      "ui"
+    ]
+  },
+  {
+    "value": "hi",
+    "synonyms": [
+      "hey",
+      "pssst",
+      "hi din sayo",
+      "hi din sa iyo",
+      "hi jex"
+    ]
+  },
+  {
+    "value": "is there anyone there?",
+    "synonyms": [
+      "may tao ba diyan?",
+      "may tao ba dito?"
+    ]
+  },
+  {
+    "value": "good morning",
+    "synonyms": [
+      "magandang umaga",
+      "gandang umaga",
+      "morning"
+    ]
+  },
+  {
+    "value": "good afternoon",
+    "synonyms": [
+      "magandang tanghali",
+      "gandang tanghali",
+      "afternoon"
+    ]
+  },
+  {
+    "value": "good evening",
+    "synonyms": [
+      "magandang gabi",
+      "gandang gabi",
+      "evening"
+    ]
+  },
+  {
+    "value": "pre",
+    "synonyms": [
+      "erp"
+    ]
+  },
+  {
+    "value": "mars",
+    "synonyms": [
+      "sis",
+      "sismars"
+    ]
+  },
+  {
+    "value": "lods",
+    "synonyms": [
+      "lodi",
+      "idol",
+      "idolo"
+    ]
+  },
+  {
+    "value": "kumusta?",
+    "synonyms": [
+      "musta?",
+      "how are you?",
+      "kumusta ka naman?",
+      "how was your day?"
+    ]
+  },
+  {
+    "value": "Tol",
+    "synonyms": [
+      "Tol",
+      "Utol"
+    ]
+  },
+  {
+    "value": "Kuya",
+    "synonyms": [
+      "Kuya",
+      "Kyah",
+      "Yah",
+      "kuys"
+    ]
+  },
+  {
+    "value": "Paps",
+    "synonyms": [
+      "Paps",
+      "Papa",
+      "Papsi",
+      "Pops"
+    ]
+  },
+  {
+    "value": "What\u0027s Up?",
+    "synonyms": [
+      "What\u0027s Up?",
+      "Sup",
+      "Wassap"
+    ]
+  },
+  {
+    "value": "Hey",
+    "synonyms": [
+      "Hey",
+      "eyyo",
+      "yo"
+    ]
+  },
+  {
+    "value": "hello",
+    "synonyms": [
+      "hello",
+      "henlo",
+      "halu",
+      "hello jex"
+    ]
+  }
+]

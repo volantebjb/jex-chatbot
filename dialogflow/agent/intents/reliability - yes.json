@@ -1,0 +1,74 @@
+{
+  "id": "deeacb30-78a9-46d2-8bd0-869c7a258f81",
+  "parentId": "4ceedb34-6ef2-4b80-8b0a-843b72054cdb",
+  "rootParentId": "4ceedb34-6ef2-4b80-8b0a-843b72054cdb",
+  "name": "reliability - yes",
+  "auto": true,
+  "contexts": [
+    "reliability-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reliability.reliability-yes",
+      "affectedContexts": [
+        {
+          "name": "standardization-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "standardization-fallback",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bde0a4f0-a577-401d-a5a3-6f1be8d9902b",
+          "name": "positive",
+          "required": true,
+          "dataType": "@positive",
+          "value": "$positive",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mabuti naman kung gan\u0027yan.",
+            "As they should."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Chineck ba nila ang identity mo bago ibigay sa\u0027yo ang parcel?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "8a76441a-8cbd-4b99-8a1f-bb4c1f18dfdc",
+    "data": [
+      {
+        "text": "yes",
+        "meta": "@positive",
+        "alias": "positive",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

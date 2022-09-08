@@ -1,0 +1,46 @@
+{
+  "id": "624d830f-fb25-4359-abe2-50511ccb5efd",
+  "name": "time - fallback",
+  "contexts": [
+    "time-fallback"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "time.time-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Uhm..."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hindi yata oras ang iyong isinagot."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

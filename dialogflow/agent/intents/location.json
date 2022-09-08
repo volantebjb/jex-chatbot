@@ -1,0 +1,80 @@
+{
+  "id": "e2463930-bca8-4aa7-9887-e184d7721e2c",
+  "name": "location",
+  "auto": true,
+  "contexts": [
+    "location"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "location-type",
+          "lifespan": 5
+        },
+        {
+          "name": "location-type-fallback",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "221c0020-05aa-4417-ae6c-c074b7a12afc",
+          "name": "location",
+          "required": true,
+          "dataType": "@location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Saang location mo ipinadala?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ayos d\u0027yan sa $location!",
+            "Maraming magagandang landmark diyan.",
+            "Magaganda ang mga tanawin diyan!",
+            "Attractive na lugar iyan!",
+            "Gorgeous at malinis na lugar!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Iyan ba ay home address o office address?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "acee6b8f-6a4c-424b-b47b-32848fdabe6f",
+  "parentId": "818764bc-d667-48b3-89be-7999b7fe0368",
+  "rootParentId": "818764bc-d667-48b3-89be-7999b7fe0368",
+  "name": "standardization - yes",
+  "auto": true,
+  "contexts": [
+    "standardization-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "standardization.standardization-yes",
+      "affectedContexts": [
+        {
+          "name": "attitude-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "attitude-fallback",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fee36ff6-89e5-428f-844e-e2c6c160d9e1",
+          "name": "positive",
+          "required": true,
+          "dataType": "@positive",
+          "value": "$positive",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mabuti.",
+            "Aba, dapat lang!",
+            "Talaga!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Maayos naman ba ang asal ng rider?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

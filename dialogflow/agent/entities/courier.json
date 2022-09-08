@@ -1,0 +1,9 @@
+{
+  "id": "d594dcf5-16ed-472d-8d2b-89de6bdd2590",
+  "name": "courier",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

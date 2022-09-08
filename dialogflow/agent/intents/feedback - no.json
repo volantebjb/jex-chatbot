@@ -1,0 +1,70 @@
+{
+  "id": "ac5b787e-cd2d-4df1-8f9c-731800b4faca",
+  "parentId": "3e9b5a03-6c9c-40cc-a5f7-035445e0b3a3",
+  "rootParentId": "3e9b5a03-6c9c-40cc-a5f7-035445e0b3a3",
+  "name": "feedback - no",
+  "auto": true,
+  "contexts": [
+    "feedback-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "feedback.feedback-no",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3f284844-f222-4360-b3c3-ccde7b9ed5e6",
+          "name": "negative",
+          "required": true,
+          "dataType": "@negative",
+          "value": "$negative",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry, oo at hindi lamang ang tinatanggap kong sagot dito."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Paalam!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

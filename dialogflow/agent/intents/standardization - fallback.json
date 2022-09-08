@@ -1,0 +1,46 @@
+{
+  "id": "b6da1abb-45dd-4b33-9561-dbddd8177d15",
+  "name": "standardization - fallback",
+  "contexts": [
+    "standardization-fallback"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "standardization.standardization-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Tsss..."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oo at hindi lamang ang inaasahan kong sagot dito."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

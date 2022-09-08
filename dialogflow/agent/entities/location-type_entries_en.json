@@ -1,0 +1,24 @@
+[
+  {
+    "value": "Home Address",
+    "synonyms": [
+      "home",
+      "Bahay",
+      "Tahanan",
+      "Lungga",
+      "tahanan",
+      "household"
+    ]
+  },
+  {
+    "value": "Office Address",
+    "synonyms": [
+      "office",
+      "Opisina",
+      "Work",
+      "workplace",
+      "workroom",
+      "work room"
+    ]
+  }
+]

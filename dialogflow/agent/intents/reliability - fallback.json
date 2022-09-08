@@ -1,0 +1,46 @@
+{
+  "id": "eab7c934-3fd9-48f0-bffa-95690e087c53",
+  "name": "reliability - fallback",
+  "contexts": [
+    "reliability-fallback"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reliability.reliability-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Whoops."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oo at hindi lamang ang inaasahan kong sagot dito eh."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

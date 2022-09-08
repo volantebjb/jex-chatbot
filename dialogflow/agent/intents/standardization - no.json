@@ -1,0 +1,74 @@
+{
+  "id": "adc611fc-a43f-4889-8e57-810e2c85ed63",
+  "parentId": "818764bc-d667-48b3-89be-7999b7fe0368",
+  "rootParentId": "818764bc-d667-48b3-89be-7999b7fe0368",
+  "name": "standardization - no",
+  "auto": true,
+  "contexts": [
+    "standardization-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "standardization.standardization-no",
+      "affectedContexts": [
+        {
+          "name": "attitude-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "attitude-fallback",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e055fa08-dfe6-4801-9b08-14593baee83f",
+          "name": "negative",
+          "required": true,
+          "dataType": "@negative",
+          "value": "$negative",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ay, sus! Kaya maraming nagrereklamo eh.",
+            "Naku, hindi dapat sila gan\u0027yan!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Maayos naman ba ang asal ng rider?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

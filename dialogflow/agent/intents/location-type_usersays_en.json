@@ -1,0 +1,30 @@
+[
+  {
+    "id": "f7be87f4-b1ac-4b49-99cb-1a74a47a9cd2",
+    "data": [
+      {
+        "text": "school",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f32f93a7-fc2b-4e33-aaa6-a5e8048d8510",
+    "data": [
+      {
+        "text": "home",
+        "meta": "@location-type",
+        "alias": "locationType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

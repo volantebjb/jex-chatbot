@@ -1,0 +1,86 @@
+{
+  "id": "e4f8a85f-0979-4e25-b937-f32898840e92",
+  "parentId": "d3d6ddda-b25f-4c36-867f-5035ccd6db20",
+  "rootParentId": "d3d6ddda-b25f-4c36-867f-5035ccd6db20",
+  "name": "attitude - yes",
+  "auto": true,
+  "contexts": [
+    "attitude-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "attitude.attitude-yes",
+      "affectedContexts": [
+        {
+          "name": "overall-feedback",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "400b156d-3223-446a-9011-932e3a3d7f9a",
+          "name": "positive",
+          "required": true,
+          "dataType": "@positive",
+          "value": "$positive",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry, oo at hindi lamang ang inaasahan kong sagot dito."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yay! Mabuti naman kung gano\u0027n.",
+            "Ikinalulugod ko na maayos ang iyong karanasan.",
+            "Buti na lamang at ganoon ang rider!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Maaari ka bang magbigay ng overall feedback?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pwede mong ilahad ang mga hinaing o reklamo sa courier na iyong pinili."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

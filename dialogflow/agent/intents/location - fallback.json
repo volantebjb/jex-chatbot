@@ -1,0 +1,56 @@
+{
+  "id": "51eeeeb8-df02-4c25-a9a2-a504005d1d9a",
+  "name": "location - fallback",
+  "contexts": [
+    "location-fallback"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "location.location-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hmmm."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mga lugar lamang sa Pilipinas ang alam ko."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Maaari mo bang ilagay ang province o city na iyong pinadalhan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

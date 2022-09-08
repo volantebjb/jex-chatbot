@@ -1,0 +1,46 @@
+{
+  "id": "76b874ee-8cc2-4bae-bd28-973bf559f91a",
+  "name": "courier - fallback",
+  "contexts": [
+    "courier-fallback"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "courier.courier-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Paumanhin."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hindi ito kasama sa listahan ng mga registered couriers namin."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

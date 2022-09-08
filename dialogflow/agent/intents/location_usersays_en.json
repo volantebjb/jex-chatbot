@@ -1,0 +1,68 @@
+[
+  {
+    "id": "107e6854-2179-4f32-af6c-4ed02aada3ce",
+    "data": [
+      {
+        "text": "sa may ",
+        "userDefined": false
+      },
+      {
+        "text": "Binondo",
+        "meta": "@location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0da3caaf-f76e-46d2-8118-5f123a135151",
+    "data": [
+      {
+        "text": "dito sa ",
+        "userDefined": false
+      },
+      {
+        "text": "Tondo",
+        "meta": "@location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14bc6201-ce7e-4059-a9db-ea9c8debaf6e",
+    "data": [
+      {
+        "text": "probinsya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "164daa49-8fab-49eb-99d3-45cd0ab5abf2",
+    "data": [
+      {
+        "text": "Abra",
+        "meta": "@location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

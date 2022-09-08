@@ -1,0 +1,77 @@
+{
+  "id": "decef1d1-8af2-4944-bc22-ed81b2b24cca",
+  "name": "location-type",
+  "auto": true,
+  "contexts": [
+    "location-type"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "time",
+          "lifespan": 5
+        },
+        {
+          "name": "time-fallback",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c9dcbcc2-3c02-4515-9aad-a3d9beae2e19",
+          "name": "locationType",
+          "required": true,
+          "dataType": "@location-type",
+          "value": "$locationType",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Iyan ba ay home address o office address?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I see.",
+            "Oh, aking nabatid."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Anong oras mo naman inaasahang dumating?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

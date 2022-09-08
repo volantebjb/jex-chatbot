@@ -1,0 +1,78 @@
+{
+  "id": "ac5e5d25-825f-4a90-a095-061946edee09",
+  "parentId": "3e9b5a03-6c9c-40cc-a5f7-035445e0b3a3",
+  "rootParentId": "3e9b5a03-6c9c-40cc-a5f7-035445e0b3a3",
+  "name": "feedback - yes",
+  "auto": true,
+  "contexts": [
+    "feedback-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "feedback.feedback-yes",
+      "affectedContexts": [
+        {
+          "name": "courier",
+          "lifespan": 5
+        },
+        {
+          "name": "courier-fallback",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8a825989-5c9c-4e25-867d-5afe5698c761",
+          "name": "positive",
+          "required": true,
+          "dataType": "@positive",
+          "value": "$positive",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry, oo at hindi lamang ang tinatanggap kong sagot dito."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I see."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Anong courier ba ang iyong ginamit?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "3a58de6a-ef2d-4452-b7e4-b411354b3ab2",
+  "name": "location-type - fallback",
+  "contexts": [
+    "location-type-fallback"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "location-type.location-type-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Naku."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Home address or office address lang ang inaasahan kong sagot dito."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
